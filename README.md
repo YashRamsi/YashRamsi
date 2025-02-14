@@ -4,7 +4,7 @@ If you're here, you're probably curious about what I do! You're in the right pla
 
 ### 🔹 About Me
 - 📊 I’m a **Data Analyst** passionate about turning raw data into meaningful insights.
-- 💡 Constantly learning about **Power BI, SQL, Python, and Machine Learning**.
+- 💡 Constantly learning about **Full Stack, SQL, Python, and Machine Learning**.
 - 🌍 I love working on **data-driven projects** that impact businesses and society.
 - 🏀 Outside of work, I enjoy **basketball, sci-fi movies, and history**.
 
