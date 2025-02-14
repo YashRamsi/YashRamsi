@@ -15,8 +15,7 @@ If you're here, you're probably curious about what I do! You're in the right pla
 
 ### 💬 Let's Connect!
 📧 **Email:** [yaswanthchowdary.pavuluri@gmail.com](mailto:yaswanthchowdary.pavuluri@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yaswanth-chowdary-pavuluri](https://www.linkedin.com/in/yaswanth-chowdary-pavuluri)  
-🐙 **GitHub:** [github.com/YashRamsi](https://github.com/YashRamsi)  
+🔗 **LinkedIn:** [linkedin.com/in/yaswanth-chowdary-pavuluri](https://www.linkedin.com/in/yaswanth-chowdary-pavuluri) 
 
 ---
 
