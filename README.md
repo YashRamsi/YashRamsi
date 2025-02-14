@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Yaswanth Pavuluri!
 
-<!--
-**YashRamsi/YashRamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're here, you're probably curious about what I do! You're in the right place. 🚀
 
-Here are some ideas to get you started:
+### 🔹 About Me
+- 📊 I’m a **Data Analyst** passionate about turning raw data into meaningful insights.
+- 💡 Constantly learning about **Power BI, SQL, Python, and Machine Learning**.
+- 🌍 I love working on **data-driven projects** that impact businesses and society.
+- 🏀 Outside of work, I enjoy **basketball, sci-fi movies, and history**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I’m Working On
+- 🎯 Improving my skills in **Azure Data Engineering & Big Data Analytics**.
+- 🤖 Exploring **AI & LLMs** for real-world applications.
+- 🏆 Pursuing **advanced certifications in data science**.
+
+### 💬 Let's Connect!
+📧 **Email:** [yaswanthchowdary.pavuluri@gmail.com](mailto:yaswanthchowdary.pavuluri@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/yaswanth-chowdary-pavuluri](https://www.linkedin.com/in/yaswanth-chowdary-pavuluri)  
+🐙 **GitHub:** [github.com/YashRamsi](https://github.com/YashRamsi)  
+
+---
+
+🚀 **Fun Fact:** I love working on open-source projects and am always happy to collaborate!  
+💡 *"Data is the new oil, but insights are the real gold!"*
